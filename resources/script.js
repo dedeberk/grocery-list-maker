@@ -20,11 +20,11 @@ addButton.addEventListener("click", function () {
     addItem()
 })
 
-inputText.addEventListener("keypress", (event) => {
+/*inputText.addEventListener("keypress", (event) => {
     if (event.which === 13) {
         addItem();
     }
-})
+})*/
 
 
 
